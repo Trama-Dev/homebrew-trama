@@ -1,6 +1,6 @@
 cask "trama" do
-  version "0.1.1"
-  sha256 "783fd42f3175d10fbc38d10a8f6dcd9a7e6d708566b019b665b83c2959b0bf40"
+  version "0.1.2"
+  sha256 "e90bffac9d2caf1ecdf42077c121992ad5a9f8354a51f05cee17682395c7c08f"
 
   url "https://pub-e980205d52d54c93a2a279e7b0b62766.r2.dev/v#{version}/Trama_#{version}_aarch64.dmg"
   name "Trama"
